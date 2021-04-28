@@ -15,4 +15,4 @@ x = range(21)
 
 print("Fibonacci sequence till 20: ")
 for n in x:
-    print(fibonacci(n))
+    print(fibonacci(n), end=" ")
